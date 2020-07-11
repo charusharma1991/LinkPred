@@ -24,6 +24,6 @@ Run the following command to run just the link prediction part of the entire pip
 ```
 python LP.py
 ```
-The LP.py is the python script which will run the link prediction model on all datasets and store the results (Table 1 in main paper) in a text file inside the directory result_logs/LP.
+The LP.py is the python script which will run the link prediction model on all datasets and store the results in a text file inside the directory result_logs/LP.
 
-The NC.py is the python script which will run the node classification model on the datasets- cora, pubmed and citeseer and store the results (Table 2 in main paper) in a text file inside the directory result_logs/NC.
+The NC.py is the python script which will run the node classification model on the datasets- cora and citeseer and store the results in a text file inside the directory result_logs/NC.
