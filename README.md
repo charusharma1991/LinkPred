@@ -1,7 +1,7 @@
 # Learning Representations via Spectral-Biased Random Walks on Graphs
 
 ### About
-This is the source code for the paper - Learning Representations via Spectral-Biased Random Walks on Graphs accepted at IJCNN 2020. We propose a novel mechanism which use random walks biased by Spectral similarity of nodes. The proposed method enhance the SOTA results on many datasets of varying attributes.
+Source code for our [IJCNN 2020](https://wcci2020.org/) paper: [Learning Representations using Spectral-Biased Random Walks on Graphs](https://arxiv.org/pdf/2005.09752.pdf). We propose a novel mechanism which use random walks biased by Spectral similarity of nodes. The proposed method enhance the SOTA results on many datasets of varying attributes.
 
 ### Requirements
 
