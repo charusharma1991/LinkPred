@@ -4,9 +4,8 @@
 This is the source code for the paper - Learning Representations via Spectral-Biased Random Walks on Graphs accepted at IJCNN 2020. We propose a novel mechanism which use random walks biased by Spectral similarity of nodes. The proposed method enhance the SOTA results on many datasets of varying attributes.
 
 ### Requirements
-- [conda](https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh)
 
-Please download miniconda from above link and create an environment using the following command:
+Please download miniconda and create an environment using the following command:
 ```
 conda create -n pytorch35
 ```
