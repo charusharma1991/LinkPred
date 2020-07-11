@@ -1,0 +1,7 @@
+Dataset Name			Classification Accuracy
+cora					0.704
+pubmed					0.714
+citeseer					0.518
+citeseer					0.518
+pubmed					0.714
+cora					0.704

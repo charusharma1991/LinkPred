@@ -1,0 +1,7 @@
+numpy
+scipy
+matplotlib
+torch==1.0.0
+networkx
+Cython
+POT
